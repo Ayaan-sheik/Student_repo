@@ -1,8 +1,7 @@
-streamlit
 yfinance
 pandas
 numpy
+matplotlib
 plotly
 nltk
-beautifulsoup4
-requests
+finnhub-python
